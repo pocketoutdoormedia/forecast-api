@@ -18,7 +18,7 @@ You can also use the [search engine](https://openweathermap.org/find?q=) or [wea
 
 ## Logistics
 - Python or Node.js are preferred, but you may choose any programming language, framework, or technology to complete this task.
-- You should include instructions for building and running your API.
-- You can provide your solution as a ZIP file, or as a repository from any of the major source control sites (feel free to fork this repo), but please keep repos containing your solution private.
+- Be sure to include instructions for building and running your API.
+- Please keep repos containing your solution private. You can easily create a new repo with this README by clicking the "Use this template" button at the top of this page, and select *Private* from the options there. You do not need to share anything with us beforehand, just be prepared to share your screen and talk about your solution during the interview.
 - Please spend no more than an hour and a half, as we want to be respectful of your time. You'll have time to talk through your solution (as well as any aspects you may have wanted to get to but didn't) during the technical interview. Since that's not a lot of time, remember to keep it simple! (There are no "gotchas" in this challenge. Take everything at face value. There's room for interpretation, just keep track of your assumptions.)
 - If you have any questions or need any clarification, please reach out. 
